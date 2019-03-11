@@ -1,0 +1,14 @@
+{
+  "name": "egg-proxy-middleware",
+  "version": "1.0.0",
+  "description": "egg.js middleware, http, proxy",
+  "dependencies": {
+    "http-proxy-middleware": "^0.19.1",
+    "koa2-connect": "^1.0.2",
+    "path-to-regexp": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "license": "MIT"
+}
